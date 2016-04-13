@@ -1,5 +1,1 @@
-Voici le code réalisé lors des TPs des calcul parallele réalisés avec OpenMPI. Pour compiler sous Ubuntu
-
-* Installer openmpi-bin, libopenmpi-dev
-* mpicxx assembling.cc conjugate_gradient.cc grid.cc linear_system.cc main.cc output.cc output_vtk.cc partitioning.cc -o TPs
-* mpirun -np 4 TPs
+[Page d'accueil](https://github.com/gregoiremassot/TPs-Calcul-Parallele/wiki/Bienvenue-sur-la-page-du-d%C3%A9p%C3%B4t-%22TPs-Calcul-Parallele%22-!) / [Home page](https://github.com/gregoiremassot/TPs-Calcul-Parallele/wiki/Welcome-to-the-repository-%22Parallel-computing-homework%22-!)
